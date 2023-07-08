@@ -1,0 +1,47 @@
+.formContainer{
+    background-color: rgb(157, 123, 188);
+    align-items: center;
+    height: 100vh;
+    display: flex;
+ }
+ .formWrapper{
+     display: flex;
+     flex-direction: column;
+     background-color: white;
+     text-align: center;
+     position: relative;
+     left: 37%;
+     border-radius: 15px;
+     
+ }
+ .form{
+     display: flex;
+     flex-direction: column;
+     gap: 15px;
+     padding: 20px;
+     border: none;
+     margin-top: 16px;
+     
+ }
+ .form input{
+     font-size:1.1em;
+     padding: 5px;
+     text-align: center;
+     border: none;
+     border-bottom: solid 2px rgb(135, 132, 132);
+     outline: none;
+ }
+ .form button{
+     max-width: 150px;
+     margin-left: 18%;
+     padding: 10px;
+     background-color: rgb(23, 71, 167);
+     color: white;
+     border-radius: 20px;
+     border: none;
+     offset: none;
+     outline: none;
+ }
+ .loginpage {
+        line-height: 15px;
+ }

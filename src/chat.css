@@ -1,0 +1,15 @@
+.chatInfo{
+    display: flex;
+    justify-content: space-between;
+    padding: 10px;
+    background-color: rgb(107, 103, 103);
+    color: white;
+}
+.chatIcon img{
+    width: 27px;
+    height: 27px;
+    margin: 8px;
+    align-items: center;
+    margin-top: 0;
+    
+}
